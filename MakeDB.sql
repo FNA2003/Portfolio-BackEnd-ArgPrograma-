@@ -108,4 +108,5 @@ INSERT INTO Proyectos(imgURL,proyectoURL,nombre,descripcion,usuarioFK) VALUES
   ("https://i.ibb.co/JBCNQj7/documentation.png", "https://codepen.io/P4nuch0/full/wvrLKVE", "Documentación", "Una página minimalista de la documentación de JavaScript", 1),
   ("https://i.ibb.co/XZFFBzd/portfolio.png", "https://codepen.io/P4nuch0/full/wvrLbZz", "Portfolio", "Una primera versión de un portfolio", 1),
   ("https://i.ibb.co/mvQdQsT/tribute.png", "https://codepen.io/P4nuch0/full/KKXEBaj", "Tributo", "Una página donde podemos explorar información del salvador de las Américas, Jose de San Martin", 1),
-  ("https://i.ibb.co/LgrQ54w/e-commerce.png", "https://codepen.io/P4nuch0/full/poWmPJP", "E-commerce", "Una página estática donde podremos ver el template de e-commerce", 1);
+  ("https://i.ibb.co/LgrQ54w/e-commerce.png", "https://codepen.io/P4nuch0/full/poWmPJP", "E-commerce", "Una página estática donde podremos ver el template de e-commerce", 1)
+;
