@@ -4,7 +4,7 @@
  
 #### Info de la página
 
-> Hasta este momento, (***versión 2.8***) esta página no tiene ninguna interacción con ninguna Base de Datos, mas que con una archivo JSON. Se espera lograr una página dinámica donde también se pueda hacer algún tipo de interacción con una API que modifique el contenido de la página y de la base de datos. Link del [Front-end](https://github.com/FNA2003/Portfolio-FrontEnd-ArgPrograma-/tree/main/portfolio)
+> Hasta este momento, (***versión 2.8***) esta página no tiene ninguna interacción con ninguna Base de Datos, mas que con una archivo JSON. Se espera lograr una página dinámica donde también se pueda hacer algún tipo de interacción con una API que modifique el contenido de la página y de la base de datos. Link del [Front-end](https://github.com/FNA2003/Portfolio-FrontEnd-ArgPrograma-/tree/main/portfolio)<br>
 > Las tecnologías que comprenden esta aplicación son: *TypeScript*, *HTML*, *CSS*, *Java*, *Boostrap*, *Angular*, entre otras.
 
 ## ¿Qué información podremos encontrar?
