@@ -23,6 +23,12 @@ Una implementación de la página es que, muestra cada sección de una manera di
  Bueno, si accede a la página, podrá notar en la parte superior izquierda un botón que permite loggearse... Lo cual significa que el contenido de la misma podrá modificarse ¿O no? Si y, es que, la **MAYORIA** de lo que se encuentra en la página puede ser modificado por el usuario sin necesidad de acceder al *inspector* y dajandolo acentado en la base de datos para que el próximo usuario vea los cambios (por ahora los cambios solo se hacen en un .JSON y el Front-End).
 
 
+## Back End
+
+  Por el momento, se subio el script capaz de generar todo lo necesario para hacer la base de datos. Sin uncluir esta misma. Seguidamente, esta es una imágen del Diagrama Entidad-Relación con el que se hizo la lógica para la DB:
+![Imágen diagrama ER](https://github.com/FNA2003/Portfolio-BackEnd-ArgPrograma-/blob/main/DiagramaER.png?raw=true)
+ 
+
 ---
 ##### Problemas e impedimentos
 
